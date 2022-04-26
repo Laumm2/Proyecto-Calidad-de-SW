@@ -41,10 +41,7 @@ namespace Semana7Test
             // int esperado = 7;
 
             //Act
-
-            Calculadora calc = new Calculadora();
-
-            int actual = calc.div(a, b);
+            int actual = Calculadora.div(a, b);
 
             //Assert
 
@@ -63,10 +60,7 @@ namespace Semana7Test
             // int esperado = 7;
 
             //Act
-
-            Calculadora calc = new Calculadora();
-
-            int actual = calc.div(a, b);
+            int actual = Calculadora.div(a, b);
 
             //Assert
 

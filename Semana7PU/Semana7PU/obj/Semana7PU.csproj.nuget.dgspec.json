@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richard\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {}
+    "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkins\\Proyecto-Calidad-de-SW\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richard\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {
+    "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkins\\Proyecto-Calidad-de-SW\\Semana7PU\\Semana7PU\\Semana7PU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
+        "projectUniqueName": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkins\\Proyecto-Calidad-de-SW\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
         "projectName": "Semana7PU",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\Semana7PU\\Semana7PU\\obj\\",
+        "projectPath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkins\\Proyecto-Calidad-de-SW\\Semana7PU\\Semana7PU\\Semana7PU.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkins\\Proyecto-Calidad-de-SW\\Semana7PU\\Semana7PU\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,16 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -61,7 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
