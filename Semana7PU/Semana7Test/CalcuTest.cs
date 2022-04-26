@@ -32,6 +32,7 @@ namespace Semana7Test
         [DataRow(4, 4, 1)]
         [DataRow(4, 0, -1)]
         [DataRow(20, 5, 4)]
+        [DataRow(80, 0, 5)]
         [TestMethod]
         public void Div_retonaValor(int a, int b, int esperado)
         {
