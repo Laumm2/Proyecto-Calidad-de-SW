@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="869ea202-ae1f-4cc5-b3bd-3dbdc9c3e143" name="DESKTOP-A53PEDG$@DESKTOP-A53PEDG 2022-04-30 12:15:57" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-04-30T12:15:57.1098254-06:00" queuing="2022-04-30T12:15:57.1098254-06:00" start="2022-04-30T12:15:56.7830345-06:00" finish="2022-04-30T12:15:57.1875859-06:00" />
+  <TestSettings name="default" id="c100e310-1455-4ed9-96dd-c91cf288a675">
+    <Deployment runDeploymentRoot="DESKTOP-A53PEDG$_DESKTOP-A53PEDG_2022-04-30_12_15_57" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="438b2c1f-a39c-4a1c-b4a1-14db0fef74b0" testId="04bf2e05-40f8-407e-8899-111b74c73146" testName="Multi_retonaValor (10,10,100)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0001373" startTime="2022-04-30T12:15:57.1037736-06:00" endTime="2022-04-30T12:15:57.1037736-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="438b2c1f-a39c-4a1c-b4a1-14db0fef74b0" />
+    <UnitTestResult executionId="bdfef94a-57c6-4d78-aaae-f0ff653b155b" testId="ab33bdf3-5600-44f2-9a9c-744606b6b9fd" testName="Suma_retonaValor (0,0,0)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000030" startTime="2022-04-30T12:15:57.0997844-06:00" endTime="2022-04-30T12:15:57.0997844-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bdfef94a-57c6-4d78-aaae-f0ff653b155b" />
+    <UnitTestResult executionId="047db6eb-078f-4ad9-b6f2-683e12cccb89" testId="79c52d52-ad40-47ad-b186-20b49f346edd" testName="Suma_retonaValor (2,3,5)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000029" startTime="2022-04-30T12:15:57.0997844-06:00" endTime="2022-04-30T12:15:57.0997844-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="047db6eb-078f-4ad9-b6f2-683e12cccb89" />
+    <UnitTestResult executionId="73f12eb2-2c56-440a-a987-bccd5ed7769b" testId="08d1ca68-d3c1-4903-a07e-8ed311d01a7e" testName="Suma_retonaValor (4,0,4)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000100" startTime="2022-04-30T12:15:57.0987869-06:00" endTime="2022-04-30T12:15:57.0997844-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="73f12eb2-2c56-440a-a987-bccd5ed7769b" />
+    <UnitTestResult executionId="e5923e35-2001-4d69-88c6-352c4323a87b" testId="11222373-8c48-4251-aa2e-a5026087c81b" testName="Multi_retonaValor (-9,-9,81)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000029" startTime="2022-04-30T12:15:57.1047714-06:00" endTime="2022-04-30T12:15:57.1047714-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e5923e35-2001-4d69-88c6-352c4323a87b" />
+    <UnitTestResult executionId="b77c9a5f-d7ef-402c-957a-6746f8eb12a1" testId="7ef68e6a-b62f-45c6-bcb9-78c550ecda8d" testName="Div_retonaValor (20,5,4)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000027" startTime="2022-04-30T12:15:57.0997844-06:00" endTime="2022-04-30T12:15:57.1007817-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b77c9a5f-d7ef-402c-957a-6746f8eb12a1" />
+    <UnitTestResult executionId="26d0c57d-ee58-4b2e-a366-419e90957225" testId="cdde4368-b4a6-4d10-a81d-d16084f6d486" testName="Div_retonaValor (4,0,-1)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000033" startTime="2022-04-30T12:15:57.0997844-06:00" endTime="2022-04-30T12:15:57.0997844-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26d0c57d-ee58-4b2e-a366-419e90957225" />
+    <UnitTestResult executionId="b6b49484-b660-4d62-9986-3967b2b18298" testId="de364d62-4b83-4761-8ad4-4fa8fad860c5" testName="Div_retonaValor (4,4,1)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0001237" startTime="2022-04-30T12:15:57.0997844-06:00" endTime="2022-04-30T12:15:57.0997844-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6b49484-b660-4d62-9986-3967b2b18298" />
+    <UnitTestResult executionId="c2b62748-6508-44e0-95ce-0700740fff30" testId="bc7520c4-8dd1-4bab-b8f2-c330fd1b9a4b" testName="Resta_retonaValor (-10,-8,-2)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000952" startTime="2022-04-30T12:15:57.1007817-06:00" endTime="2022-04-30T12:15:57.1007817-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c2b62748-6508-44e0-95ce-0700740fff30" />
+    <UnitTestResult executionId="ae67fe63-c7da-4835-bb94-94933bf4e290" testId="fa8a29f8-e029-42e7-ba12-944d66686144" testName="Suma_retonaValor (4,4,8)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0056259" startTime="2022-04-30T12:15:57.0499178-06:00" endTime="2022-04-30T12:15:57.0928031-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae67fe63-c7da-4835-bb94-94933bf4e290" />
+    <UnitTestResult executionId="cfe5e246-990f-4900-8a0d-c1249032f6b4" testId="7bbdeba3-ef78-4c0d-8cda-dffec068ffc8" testName="Resta_retonaValor (95,5,90)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000041" startTime="2022-04-30T12:15:57.1037736-06:00" endTime="2022-04-30T12:15:57.1037736-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cfe5e246-990f-4900-8a0d-c1249032f6b4" />
+    <UnitTestResult executionId="c941cbe1-0705-49a0-a360-831189447f74" testId="6e4bcba0-5e77-42b5-b012-a9b460a1cd3b" testName="Multi_retonaValor (5,-3,-15)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000029" startTime="2022-04-30T12:15:57.1037736-06:00" endTime="2022-04-30T12:15:57.1047714-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c941cbe1-0705-49a0-a360-831189447f74" />
+    <UnitTestResult executionId="0a606ecb-ac1e-49dc-988d-4c7e4d4c386b" testId="fac27edd-8b4b-4206-aa36-5a1d40cce701" testName="Div_EntreCero (4,0,0)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0002950" startTime="2022-04-30T12:15:57.1007817-06:00" endTime="2022-04-30T12:15:57.1007817-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a606ecb-ac1e-49dc-988d-4c7e4d4c386b" />
+    <UnitTestResult executionId="06e800d1-40e2-4187-aff2-60996ff67adb" testId="79ca1408-e816-4f27-b2c9-62b69cd55eb4" testName="Resta_retonaValor (100,-1,101)" computerName="DESKTOP-A53PEDG" duration="00:00:00.0000037" startTime="2022-04-30T12:15:57.1037736-06:00" endTime="2022-04-30T12:15:57.1037736-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="06e800d1-40e2-4187-aff2-60996ff67adb" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Multi_retonaValor (-9,-9,81)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="11222373-8c48-4251-aa2e-a5026087c81b">
+      <Execution id="e5923e35-2001-4d69-88c6-352c4323a87b" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Multi_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Suma_retonaValor (4,0,4)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="08d1ca68-d3c1-4903-a07e-8ed311d01a7e">
+      <Execution id="73f12eb2-2c56-440a-a987-bccd5ed7769b" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Suma_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Multi_retonaValor (5,-3,-15)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="6e4bcba0-5e77-42b5-b012-a9b460a1cd3b">
+      <Execution id="c941cbe1-0705-49a0-a360-831189447f74" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Multi_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Suma_retonaValor (4,4,8)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="fa8a29f8-e029-42e7-ba12-944d66686144">
+      <Execution id="ae67fe63-c7da-4835-bb94-94933bf4e290" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Suma_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Div_retonaValor (20,5,4)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="7ef68e6a-b62f-45c6-bcb9-78c550ecda8d">
+      <Execution id="b77c9a5f-d7ef-402c-957a-6746f8eb12a1" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Div_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Div_retonaValor (4,0,-1)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="cdde4368-b4a6-4d10-a81d-d16084f6d486">
+      <Execution id="26d0c57d-ee58-4b2e-a366-419e90957225" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Div_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Multi_retonaValor (10,10,100)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="04bf2e05-40f8-407e-8899-111b74c73146">
+      <Execution id="438b2c1f-a39c-4a1c-b4a1-14db0fef74b0" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Multi_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Suma_retonaValor (2,3,5)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="79c52d52-ad40-47ad-b186-20b49f346edd">
+      <Execution id="047db6eb-078f-4ad9-b6f2-683e12cccb89" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Suma_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Suma_retonaValor (0,0,0)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="ab33bdf3-5600-44f2-9a9c-744606b6b9fd">
+      <Execution id="bdfef94a-57c6-4d78-aaae-f0ff653b155b" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Suma_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Resta_retonaValor (-10,-8,-2)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="bc7520c4-8dd1-4bab-b8f2-c330fd1b9a4b">
+      <Execution id="c2b62748-6508-44e0-95ce-0700740fff30" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Resta_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Resta_retonaValor (95,5,90)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="7bbdeba3-ef78-4c0d-8cda-dffec068ffc8">
+      <Execution id="cfe5e246-990f-4900-8a0d-c1249032f6b4" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Resta_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Resta_retonaValor (100,-1,101)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="79ca1408-e816-4f27-b2c9-62b69cd55eb4">
+      <Execution id="06e800d1-40e2-4187-aff2-60996ff67adb" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Resta_retonaValor" />
+    </UnitTest>
+    <UnitTest name="Div_EntreCero (4,0,0)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="fac27edd-8b4b-4206-aa36-5a1d40cce701">
+      <Execution id="0a606ecb-ac1e-49dc-988d-4c7e4d4c386b" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Div_EntreCero" />
+    </UnitTest>
+    <UnitTest name="Div_retonaValor (4,4,1)" storage="e:\steven\universidad\licenciatura\jenkinsnetframework\semana7calculadora\pruebacalculadora\bin\debug\pruebacalculadora.dll" id="de364d62-4b83-4761-8ad4-4fa8fad860c5">
+      <Execution id="b6b49484-b660-4d62-9986-3967b2b18298" />
+      <TestMethod codeBase="E:\Steven\Universidad\Licenciatura\JenkinsNetFramework\Semana7Calculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.dll" adapterTypeName="executor://mstestadapter/v2" className="PruebaCalculadora.TestCalculadora" name="Div_retonaValor" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="04bf2e05-40f8-407e-8899-111b74c73146" executionId="438b2c1f-a39c-4a1c-b4a1-14db0fef74b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab33bdf3-5600-44f2-9a9c-744606b6b9fd" executionId="bdfef94a-57c6-4d78-aaae-f0ff653b155b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79c52d52-ad40-47ad-b186-20b49f346edd" executionId="047db6eb-078f-4ad9-b6f2-683e12cccb89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08d1ca68-d3c1-4903-a07e-8ed311d01a7e" executionId="73f12eb2-2c56-440a-a987-bccd5ed7769b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11222373-8c48-4251-aa2e-a5026087c81b" executionId="e5923e35-2001-4d69-88c6-352c4323a87b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ef68e6a-b62f-45c6-bcb9-78c550ecda8d" executionId="b77c9a5f-d7ef-402c-957a-6746f8eb12a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdde4368-b4a6-4d10-a81d-d16084f6d486" executionId="26d0c57d-ee58-4b2e-a366-419e90957225" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="de364d62-4b83-4761-8ad4-4fa8fad860c5" executionId="b6b49484-b660-4d62-9986-3967b2b18298" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc7520c4-8dd1-4bab-b8f2-c330fd1b9a4b" executionId="c2b62748-6508-44e0-95ce-0700740fff30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa8a29f8-e029-42e7-ba12-944d66686144" executionId="ae67fe63-c7da-4835-bb94-94933bf4e290" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7bbdeba3-ef78-4c0d-8cda-dffec068ffc8" executionId="cfe5e246-990f-4900-8a0d-c1249032f6b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6e4bcba0-5e77-42b5-b012-a9b460a1cd3b" executionId="c941cbe1-0705-49a0-a360-831189447f74" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fac27edd-8b4b-4206-aa36-5a1d40cce701" executionId="0a606ecb-ac1e-49dc-988d-4c7e4d4c386b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79ca1408-e816-4f27-b2c9-62b69cd55eb4" executionId="06e800d1-40e2-4187-aff2-60996ff67adb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados sin formato de lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="14" executed="14" passed="14" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
