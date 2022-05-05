@@ -11,6 +11,7 @@ namespace PruebaCalculadora
         [DataRow(4, 0, 4)]
         [DataRow(0, 0, 0)]
         [DataRow(2, 3, 5)]
+        [DataRow(3, 3, 6)]
         [TestMethod]
         public void Suma_retonaValor(int a, int b, int esperado)
         {
