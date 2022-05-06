@@ -19,3 +19,10 @@ E:\Steven\Universidad\Licenciatura\ProyectoJenkins\Proyecto-Calidad-de-SW\Semana
 E:\Steven\Universidad\Licenciatura\ProyectoJenkins\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.csproj.CoreCompileInputs.cache
 E:\Steven\Universidad\Licenciatura\ProyectoJenkins\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.exe
 E:\Steven\Universidad\Licenciatura\ProyectoJenkins\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.pdb
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\bin\Debug\Semana7Calculadora.exe.config
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\bin\Debug\Semana7Calculadora.exe
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\bin\Debug\Semana7Calculadora.pdb
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.csproj.AssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.exe
+C:\Users\Richard\Documents\GitHub\Proyecto-Calidad-de-SW\Semana7PU\Semana7Calculadora\obj\Debug\Semana7Calculadora.pdb
